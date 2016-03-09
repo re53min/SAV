@@ -22,7 +22,7 @@
     <logger name="opennlp.uima.util" level="OFF" />
     <logger name="org.apache.uima" level="OFF" />
     <logger name="org.cleartk" level="OFF" />
-    <logger name="fun.SAV" level="INFO"></logger>
+    <logger name="fun.DeepLearning" level="INFO"></logger>
 
 
 
